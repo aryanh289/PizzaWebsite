@@ -1,4 +1,4 @@
-# PizzaWebsite is a fantastic react based restaurant frontend  
+# PizzaWebsite is a fantastic react based restaurant frontend created using styled-components only
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) 
 
