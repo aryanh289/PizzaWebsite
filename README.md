@@ -1,4 +1,4 @@
-# PizzaWebsite is a fantastic react based restaurant application 
+# PizzaWebsite is a fantastic react based restaurant frontend  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) 
 
